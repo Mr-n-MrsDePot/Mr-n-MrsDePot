@@ -1,7 +1,7 @@
 # Building AI voice products and systems that ship
 
-**GitHub:** [Mr-n-MrsDePot](https://github.com/Mr-n-MrsDePot)  
-**Portfolio:** [portfolio site](https://mr-n-mrsdepot.github.io/portfolio/) · [repo](https://github.com/Mr-n-MrsDePot/portfolio)  
+**GitHub:** [Mr-n-MrsDePot](https://github.com/Mr-n-MrsDePot) 
+**Portfolio:** [portfolio site](https://mr-n-mrsdepot.github.io/portfolio/) · [repo](https://github.com/Mr-n-MrsDePot/portfolio) 
 **Email:** tpott1980@gmail.com
 
 ## Flagship apps
@@ -16,7 +16,7 @@ Production Flutter apps with **VAPI** voice AI and **Firebase** backends. Full s
 - Credits / bundles, Sign in with Apple, App Store review pipeline
 - Stack: `Flutter` · `VAPI` · `Firebase Functions` · `Provider` · `GoRouter` · `iOS`
 
-### Taylor (BizCall) — B2B PropTech voice AI (iOS)
+### Taylor — B2B PropTech voice AI (iOS)
 Automated negotiation and bulk calling for property managers and small businesses.
 
 - Tenant / company context injected into the agent on every call
