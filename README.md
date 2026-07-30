@@ -1,4 +1,4 @@
-# Hi, I'm building AI systems that ship
+# Hi, we're **Ryan & Taylor** — building AI systems that ship
 
 **GitHub:** [Mr-n-MrsDePot](https://github.com/Mr-n-MrsDePot)  
 **Portfolio site:** [portfolio](https://github.com/Mr-n-MrsDePot/portfolio)  
