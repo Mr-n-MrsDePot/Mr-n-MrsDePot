@@ -1,47 +1,34 @@
-# Building AI voice products and systems that ship
+# AI voice apps · Flutter · VAPI · Firebase
 
-**GitHub:** [Mr-n-MrsDePot](https://github.com/Mr-n-MrsDePot) 
-**Portfolio:** [portfolio site](https://mr-n-mrsdepot.github.io/portfolio/) · [repo](https://github.com/Mr-n-MrsDePot/portfolio) 
-**Email:** tpott1980@gmail.com
+I build **production iOS apps** where AI agents make real phone calls — secured with **Firebase** backends so secrets never live in the client.
 
-## Flagship apps
+---
 
-Production Flutter apps with **VAPI** voice AI and **Firebase** backends. Full source stays private; these are the product showcases.
+## 📱 Flagship products (start here)
 
-### RYAN — AI Calling Assistant (iOS)
-**R**epresenting **Y**ou **A**s **N**eeded. Outbound AI agent calls utilities, banks, and service providers on the user’s behalf.
+| Product | What it is | Stack |
+|---------|------------|--------|
+| **[RYAN](https://github.com/Mr-n-MrsDePot/ryan)** | Consumer AI calling assistant — utilities, banks, service providers | Flutter · VAPI · Firebase Functions · Sign in with Apple · iOS |
+| **[Taylor](https://github.com/Mr-n-MrsDePot/taylor)** | B2B PropTech AI calling — property managers & small business | Flutter · VAPI · Firebase · go_router · iOS |
 
-- Flutter client + **Firebase Cloud Functions** proxy (VAPI private key never in the app)
-- Call dispatch / status polling, profile + company context → `variableValues` / assistant overrides
-- Credits / bundles, Sign in with Apple, App Store review pipeline
-- Stack: `Flutter` · `VAPI` · `Firebase Functions` · `Provider` · `GoRouter` · `iOS`
+> Full app source stays private for App Store / production security.  
+> Public repos above are **architecture + stack showcases** for clients and collaborators.
 
-### Taylor — B2B PropTech voice AI (iOS)
-Automated negotiation and bulk calling for property managers and small businesses.
+🌐 **[Live portfolio site](https://mr-n-mrsdepot.github.io/portfolio/)**
 
-- Tenant / company context injected into the agent on every call
-- Dual-theme SaaS dashboard, savings tracking, campaign-style workflows
-- Stack: `Flutter` · `VAPI` · `Firebase` · `go_router` · `iOS`
+---
 
-## Open-source projects
+## Open source
 
-### [mupo-sales-team](https://github.com/Mr-n-MrsDePot/mupo-sales-team)
-Multi-agent sales system for MUPO Entertainment:
+| Repo | Description |
+|------|-------------|
+| **[mupo-sales-team](https://github.com/Mr-n-MrsDePot/mupo-sales-team)** | Multi-agent sales system (CrewAI + xAI Grok) |
+| **[nes-emulator](https://github.com/Mr-n-MrsDePot/nes-emulator)** | NES emulator in Python |
 
-- Scout → outreach → qualify → proposal → follow-up → CRM
-- Streamlit ops UI, human-in-the-loop handoff, email safety gate
-- **CrewAI + xAI Grok**
-
-### [nes-emulator](https://github.com/Mr-n-MrsDePot/nes-emulator)
-From-scratch NES emulator in Python — 6502, PPU, mappers 0–4, Xbox controller support.
-
-## What I ship
-
-- AI voice agents on real phone infrastructure (VAPI + cloud backends)
-- Flutter mobile apps through App Store review
-- Multi-agent orchestration with guardrails
-- Systems programming & product software
+---
 
 ## Stack
 
-`Flutter` · `Dart` · `VAPI` · `Firebase` · `Node.js` · `Python` · `CrewAI` · `xAI/Grok` · `Streamlit` · `TypeScript` · `Git`
+`Flutter` · `Dart` · `VAPI` · `Firebase` · `Node.js` · `Python` · `CrewAI` · `xAI/Grok` · `iOS` · `App Store`
+
+**Contact:** tpott1980@gmail.com
