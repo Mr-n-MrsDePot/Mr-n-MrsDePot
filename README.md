@@ -1,11 +1,16 @@
 # Terry Potts
+
 **AI-First Software Builder**
 
-I build production software with **Grok Build** as a full development partner — from idea to working apps.
+I use Grok Build as a full development partner to rapidly create specialized software across multiple industries.
 
-I’ve shipped **25+ real, functional applications**. I’m in the **top 0.05% of Grok users**, which for me means treating the tool as a daily engineering partner, not a novelty.
+I've built 25+ real applications, including:
+- **UR Sew Good** – AI-powered image-to-DST embroidery auto-digitizer
+- **Industrial machine operator guides & tools** (Bambu Lab, Amada, Universal Robots, Epilog Laser, Haas CNC)
+- **AI Voice Agents** (Ryan, Taylor, Rex)
+- **Multi-agent sales systems** and business tools
 
-Current focus: **UR Sew Good**, AI auto-digitizing software for embroidery, and industrial machine operator guides (Bambu Lab, Amada, Universal Robots, Epilog Laser, Haas).
+Currently focused on building practical AI tools for manufacturing and industrial applications.
 
 Source stays private. The catalog below is the work.
 
@@ -17,7 +22,7 @@ Source stays private. The catalog below is the work.
 
 | Build | What it is |
 |-------|------------|
-| **UR Sew Good** | AI auto-digitizer — image to embroidery-ready DST |
+| **[UR Sew Good](https://github.com/Mr-n-MrsDePot/image-to-dst)** | AI auto-digitizer — image to embroidery-ready DST |
 | **Sew Context** | Multi-variable embroidery operating system |
 | **Bambu Lab Operator Guide** | Setup, calibration, and fixes for Bambu FDM printers |
 | **Amada Operator Guide** | Press brake / sheet-metal operator program |
@@ -41,9 +46,9 @@ Source stays private. The catalog below is the work.
 
 | Build | What it is |
 |-------|------------|
-| **Mickter Solutions** | Company site for Ryan + Taylor — [micktersolutions.com](https://www.micktersolutions.com) |
+| **[Mickter Solutions](https://github.com/Mr-n-MrsDePot/mickter-solutions)** | Company site for Ryan + Taylor — [micktersolutions.com](https://www.micktersolutions.com) |
 | **We Tees U** | Embroidery shop app: inventory, mockups, TikTok auction wins |
-| **MUPO Sales Team** | Multi-agent sales system (CrewAI + Grok) — [repo](https://github.com/Mr-n-MrsDePot/mupo-sales-team) |
+| **[MUPO Sales Team](https://github.com/Mr-n-MrsDePot/mupo-sales-team)** | Multi-agent sales system (CrewAI + Grok) |
 | **MUPO Leads** | Nationwide lead generation and daily call lists |
 | **MUPO Entertainment** | Marketing site for Mupo TV / Mupo Entertainment |
 | **TradeGuard AI** | Local multi-coin trading app (Flutter + FastAPI + Alpaca) |
@@ -54,7 +59,7 @@ Source stays private. The catalog below is the work.
 
 | Build | What it is |
 |-------|------------|
-| **NES Emulator** | From-scratch NES emulator with Xbox controller support — [repo](https://github.com/Mr-n-MrsDePot/nes-emulator) |
+| **[NES Emulator](https://github.com/Mr-n-MrsDePot/nes-emulator)** | From-scratch NES emulator with Xbox controller support |
 | **AI Arena** | Custom-game prototype for an official Fortnite AI matchmaking category |
 | **Live Desktop BG** | Animated / video wallpapers behind Windows icons |
 | **Desktop Widgets** | Floating clock, calendar, system monitor, sticky notes |
