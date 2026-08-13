@@ -1,14 +1,13 @@
 # Terry Potts
+**AI-First Software Builder**
 
-I'm **Terry Potts**. I use **[Grok Build](https://grok.com)** as a full development partner to design, ship, and iterate production software.
+I build production software with **Grok Build** as a full development partner — from idea to working apps.
 
-I've built **25+ real applications** — working products, not throwaway demos.
+I’ve shipped **25+ real, functional applications**. I’m in the **top 0.05% of Grok users**, which for me means treating the tool as a daily engineering partner, not a novelty.
 
-Flagship work includes **UR Sew Good**, an AI auto-digitizer for embroidery; operator programs for industrial machines (Bambu Lab, Amada, Universal Robots, Epilog Laser, Haas); and AI voice agents **Ryan**, **Taylor**, and **Rex**.
+Current focus: **UR Sew Good**, AI auto-digitizing software for embroidery, and industrial machine operator guides (Bambu Lab, Amada, Universal Robots, Epilog Laser, Haas).
 
-I also build sales systems, desktop tools, web apps, and mobile products for real businesses.
-
-**Source stays private for now.** The catalog below is what I've shipped.
+Source stays private. The catalog below is the work.
 
 ---
 
