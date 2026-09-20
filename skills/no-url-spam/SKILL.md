@@ -17,3 +17,6 @@ When you would normally output a URL or file path:
 - Keep it short. The user already knows where .com and .md live.
 
 This applies to every reply, every tool, every context.
+
+## Rule status
+This is a standing rule for all future conversations in this thread and new ones. Do not re-ask permission. Apply it automatically.
